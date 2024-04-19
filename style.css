@@ -1,5 +1,6 @@
 button{
     background-color: blue;
-    margin: 100px;
+    margin: 50px;
+    size-adjust: px;
 
 }
