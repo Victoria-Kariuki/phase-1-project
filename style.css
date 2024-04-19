@@ -1,6 +1,7 @@
-button{
-    background-color: blue;
-    margin: 50px;
-    size-adjust: px;
-
+body{
+    background-color: aqua;
+};
+container{
+    background-color: white;
+    margin-left: 100px;
 }

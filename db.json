@@ -1,2 +1,23 @@
+"dogPets"{
+    "name":"German Shepherd",
+    "image url":"https://images.app.goo.gl/bMdnn5qS28zmuHWk9",
+    "description":"intelligent and best for safety",
+}
+{   "name":"Bulldog",
+    "image url":"https://images.app.goo.gl/PNge9bYsAWotWst47",
+    "description":"have unique noses and snorting sounds",
+}  
+{    "name":"chihuahua",
+     "image url":"https://images.app.goo.gl/wkMPjRPFmFPX2GT68",
+     "description":"fun and playful",
+}  
+{    "name":"Chow chow",
+     "image url":"https://images.app.goo.gl/L1uav3TkhtcRJBpj8",
+     "description":"has a lion like mane",
+}  
+{     "name":"poodle",
+      "image url":"https://images.app.goo.gl/5csg3hvMdb4yfd568",
+      "description":"smart and easy to train",
 
+}  
 
