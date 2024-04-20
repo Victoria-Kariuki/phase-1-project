@@ -18,10 +18,9 @@ async function fetchData() {
     dogListElement.innerHTML = '';
   
     
-    // Iterate through products and create HTML elements to display them
-    p.forEach(product => {
-      const productItem = document.createElement('div');
-      productItem.classList.add('product-item');
+    // Iterate through every dog and create HTML elements to display them
+    p.forEach(dog=> {
+      
       
       const dogName = document.createElement('h2');
       dogName.textContent = dog.name;
@@ -42,4 +41,4 @@ async function fetchData() {
     });
   }
   
-  document.getElementById("myForm").addEventListener("submit", function(event){
+  document.getElementById("myForm").addEventListener("submit", function(event))
